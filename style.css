@@ -72,13 +72,13 @@ section.img {
     background-attachment: fixed;
 }
 section#_01 { 
-    background-image: url("../d012/imagens/background001.jpg");
+    background-image: url("../Cordel/imagens/background001.jpg");
     background-position: right center;
     
 }
 
 section#_02{
-    background-image: url("../d012/imagens/background002.jpg");
+    background-image: url("../Cordel/imagens/background002.jpg");
     background-position: right center;
 }
 
